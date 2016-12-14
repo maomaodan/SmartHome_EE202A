@@ -59,4 +59,15 @@ load with "real_time_prediction.py"
 get results
 
 
+Credit to contributors to open license contributors on github
+1. google docs logging: cschwer https://github.com/cschwer/googleDocsLogging
+2. amazon dash button: fiveseven808 https://github.com/fiveseven808/AmazonDashButtonHack
+
+Tools that we used:
+Tensorflow: https://github.com/tensorflow/tensorflow
+            http://tensorflow.org
+
+Keras: https://keras.io/
+       https://github.com/fchollet/keras
+
 
